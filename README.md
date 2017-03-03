@@ -3,7 +3,7 @@ Repo for my Night modifications
 
 Download the Apk in my releases tab and have fun. 
 
-(https://github.com/Pixilate/Night/releases)
+(https://github.com/Pixilate/NightPi/releases)
  
 
 
